@@ -36,10 +36,10 @@ Olaide Akinbode M.Inf.Sc | B.Sc Electrical & Electronic Engineering
 
 I am a Senior IT Professional with over a decade of experience managing technical infrastructure and data systems. My career is defined by a transition from robust systems engineering to Data-Driven Product Design.
 
-10 Years in IT Engineering: Proven track record in system reliability and data integrity.
+**10 Years in IT Engineering:** Proven track record in system reliability and data integrity.
 
-Research Background: Former Research Assistant at the Africa Regional Centre for Information Science (ARCIS) and Python Trainee at ALT-I.
+**Research Background:** Former Research Assistant at the Africa Regional Centre for Information Science (ARCIS) and Python Trainee at ALT-I.
 
-Current Focus: Developing user-centric, full-stack solutions that leverage computational logic for social impact.
+**Current Focus:** Developing user-centric, full-stack solutions that leverage computational logic for social impact.
 
 [Portfolio](https://olaideakinbode.com.ng/) | [LinkedIn](https://www.linkedin.com/in/olaideakinbode/)
