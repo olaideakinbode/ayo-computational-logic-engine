@@ -38,7 +38,7 @@ I am a Senior IT Professional with over a decade of experience managing technica
 
 **10 Years in IT Engineering:** Proven track record in system reliability and data integrity.
 
-**Research Background:** Former Research Assistant at the Africa Regional Centre for Information Science (ARCIS) and Python Trainee at ALT-I.
+**Research Background:** Former Research Assistant at the Africa Regional Centre for Information Science (ARCIS) and Python Trainee at African Language Technology Initiative (ALT-I).
 
 **Current Focus:** Developing user-centric, full-stack solutions that leverage computational logic for social impact.
 
